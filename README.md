@@ -32,12 +32,12 @@ Job postings for data roles are scattered across dozens of sites, each with inco
 ### Page 1 — Market Overview
 The high-level view: total job count, average job rating, median yearly/hourly salary, a trend line of postings over time, a scatter plot comparing hourly vs. median salary by role, and a ranked bar chart of job counts by title, plus a detailed stats table.
 
-![Page 1](Resources/images/page1_overview.png)
+![Page 1](Page1_overview.png)
 
 ### Page 2 — Job Title Drill-Through
 Click into any role from Page 1 to land here: salary ranges (gauges), work-from-home %, no-degree-required %, health insurance %, a treemap of schedule type (full-time / contract / part-time / intern), a bar chart of top hiring platforms, and a map of where those roles are posted globally.
 
-![Page 2](Resources/images/page2_drillthrough.png)
+![Page 2](page2_drillthrough.png)
 
 ## 🎥 See it in action
 
